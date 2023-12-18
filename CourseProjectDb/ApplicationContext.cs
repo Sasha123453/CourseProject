@@ -2,7 +2,7 @@
 using CourseProjectDb.Models;
 using Microsoft.Extensions.Options;
 
-namespace CourseProjectDb.Models
+namespace CourseProjectDb
 {
     public class ApplicationContext : DbContext
     {

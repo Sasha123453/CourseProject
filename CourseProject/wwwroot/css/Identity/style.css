@@ -1,0 +1,53 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0 auto;
+}
+body{
+    align-items: center;
+    flex-direction: column
+}
+.content{
+    margin: 10% 0 0 0;
+    text-align: center; 
+    display: grid;
+    justify-content: space-around;
+}
+.input{
+    height: 30px;
+    width: 50%;
+    margin: 10px;
+    padding-left: 20px;
+}
+a {
+    text-decoration: none;
+    color: white;
+}
+.buton {
+    height: 50px;
+    background-color: #494545;
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 20%;
+    transition: 0.5s;
+
+}
+
+.gg1{
+    color: #000000;
+    margin: 20px 0 0 0;
+}
+p{
+    margin: 10px 0 20px 0;
+}
+.remebmerme{
+    display: flex;
+    justify-content: center;
+    align-items: baseline
+}
+.buton:hover {
+    color: #000000;
+    background-color: #cecece;
+    transition: 0.5s;
+}

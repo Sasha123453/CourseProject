@@ -1,5 +1,5 @@
 using CourseProject.Models;
-using CourseProjectDb.Models;
+using CourseProjectDb;
 using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
 
